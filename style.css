@@ -1,7 +1,5 @@
-.background{
-    background-image: url(img.jpg);
-    background-position: center;
-    background-size: cover;
-    color: darkred;
-    height: 150vh;
+body {
+    background-color: bisque;
+    color: brown;
+    font: 700;
 }
